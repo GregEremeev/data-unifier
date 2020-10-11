@@ -1,0 +1,3 @@
+class DataDirDoesNotExistError(Exception):
+    pass
+
